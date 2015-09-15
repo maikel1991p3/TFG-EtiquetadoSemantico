@@ -14,4 +14,4 @@ INPUT:
  - indObjOrigen: imagen origen
  
  OUTPUT:
-  - Dos grupo s de imágenes que atienden a la configuración inicial de entrada.
+  - Dos grupos de imágenes que atienden a la configuración inicial de entrada.
