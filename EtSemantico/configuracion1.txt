@@ -1,0 +1,24 @@
+10 Objetos
+1 Caracteristica
+50
+Matriz de covarianzas
+1
+
+
+
+
+
+1400 Objetos
+10 Caracteristicas
+10 20 30 40 50 40 30 20 10 1 Array de Medias
+Matriz de Covarianzas
+1 1 1 1 1 1 1 1 1 1
+1 20 1 1 1 1 1 1 1 1
+1 1 50 1 1 1 1 1 1 1
+1 1 1 80 1 1 1 1 1 1
+1 1 1 1 100 1 1 1 1 1
+1 1 1 1 1 40 1 1 1 1
+1 1 1 1 1 1 30 1 1 1
+1 1 1 1 1 1 1 20 1 1
+1 1 1 1 1 1 1 1 10 1
+1 1 1 1 1 1 1 1 1 1
