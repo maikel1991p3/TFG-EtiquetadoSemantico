@@ -1,4 +1,4 @@
-# TFG-EtiquetadoSemantico
+﻿# TFG-EtiquetadoSemantico
 Librería implementado para el Trabajo Final de Grado. 
 Contiene dos algoritmos, que emplean varias funciones para el cálculo de la distancia entre imágenes. 
 La librería recibe una configuración de entrada, un banco de imágenes y una imagen inicial y devuelve una serie de imágenes cercanas, que atienden a la configuración inicial.
@@ -15,3 +15,7 @@ INPUT:
  
  OUTPUT:
   - Dos grupos de imágenes que atienden a la configuración inicial de entrada.
+
+
+
+© Esta obra está bajo una licencia de Creative Commons Reconocimiento-Compartir Igual 4.0 Internacional.
